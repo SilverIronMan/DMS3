@@ -2,7 +2,7 @@
 title: DMS3
 email: youremail@xyz.com
 description: My Portfolio
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/DMS3" # the subpath of your site, e.g. /blog
 url: ""
 google_analytics: "UA-XXXXXXXX-X"
 
