@@ -13,7 +13,6 @@ user_description: I make videos
 
 # Social Media
 # Remove the item if you don't need it
-github_username: github_username
 facebook_username: facebook_username
 twitter_username: twitter_username
 instagram_username: instagram_username
@@ -38,6 +37,12 @@ links:
     url: /about/
   - title: Contact
     url: /contact/
+
+assets:
+  img:   '/assets/img/'
+  postimg: '/assets/img/posts/'
+  css:   '/assets/css/'
+  js:    '/assets/js/'
 
 # Exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
